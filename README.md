@@ -6,7 +6,7 @@ All PCs are configured with static IPs in the 192.168.1.0/24 subnet, and connect
 
 ## Topology
 
-![Topology Screenshot](./topology.png)
+![Topology Screenshot](./topology.jpg)
 
 ## Devices Used
 - Cisco 2960 Switch
